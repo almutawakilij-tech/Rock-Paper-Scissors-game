@@ -38,6 +38,5 @@ The game lets you play against the computer using text-based ASCII art.
 Clone the repository and run the game:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/almutawakilij-tech/Rock-Paper-Scissors-game/blob/main/main.py
 python main.py
