@@ -30,14 +30,3 @@ The game lets you play against the computer using text-based ASCII art.
 ## Requirements
 
 - No external libraries needed
-
----
-
-## ▶️ How to Run
-
-Clone the repository and run the game:
-
-```bash
-git clone https://github.com/almutawakilij-tech/rock-paper-scissors-game.git
-cd rock-paper-scissors
-python main.py
